@@ -1,0 +1,31 @@
+description,num_generated,num_target
+wood grain texture,5,5
+"smooth wood grain texture image, no wood burrow",7,7
+wood planks texture,10,10
+marble texture,3,3
+plain white marble texture,3,3
+plain dark marble texture image,3,3
+texture image to be used on a kitchen cabinet model,5,5
+texture image to be used on a wall model in a home,3,3
+plain granite texture image,3,3
+plain metal texture images,3,3
+"texture image to be used on a kitchen cabinet model, simple design, uniform",5,5
+"texture image to be used on a wall model in a home, simple design, uniform",5,5
+"solid color texture image, solid color used for a kitchen cabinet",2,2
+"solid color texture image, solid color used for the base of a kitchen counter",2,2
+"solid color texture image, solid color used for a wall",2,2
+red brick texture image,3,3
+white square tiles texture image,2,2
+"kitchen wall tiles texture image, simple design",8,8
+white bricks texture image,2,2
+"a color palette with a few colors that could be used for a modern kitchen cabinet, flat",3,3
+"a color palette with a few colors that could be used for the base of a kitchen counter, flat",3,3
+"a color palette with a few colors that could be used for a plain wall in the kitchen, flat",3,3
+texture image that could be used for a kitchen counter,3,3
+"floor tile texture image, large squares",6,6
+"large concrete tile for floors, texture image",3,3
+"gray subtle wood grain used for cabinets, texture image",4,4
+light wood planks texture image,8,8
+smooth wood plank texture image used for flooring,5,5
+texture image that could be used for a wall,5,5
+"texture image for a kitchen counter, smooth, simple",22,22
